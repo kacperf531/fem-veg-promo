@@ -1,1 +1,2 @@
-An opinionated starter for using Gatsby v2 with React Context, tag-agnostic styled-components, page transitions and scroll events with IntersectionObserver.
+Dyskryminacja ze względu na płeć i gatunek mają wiele wspólnego. Jej narzędziami są język i fizyczna przemoc.  
+Zapraszamy na serię spotkań dotyczących tego tematu.

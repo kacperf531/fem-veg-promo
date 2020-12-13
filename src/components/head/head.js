@@ -28,12 +28,10 @@ const Head = ({
 
     <meta content={siteTitle} name="apple-mobile-web-app-title" />
     <meta content={pageTitleFull} property="og:title" />
-    <meta content={pageTitleFull} name="twitter:title" />
     <title>{pageTitleFull}</title>
 
     <meta content={siteDescription} name="description" />
     <meta content={siteDescription} property="og:description" />
-    <meta content={siteDescription} name="twitter:description" />
 
     <meta content="yes" name="apple-mobile-web-app-capable" />
     <meta
@@ -45,22 +43,9 @@ const Head = ({
 
     <meta content="website" property="og:type" />
     <meta content={siteTitle} property="og:site_name" />
-    <meta content={social.fbAppId} property="fb:app_id" />
-    <meta content="summary_large_image" name="twitter:card" />
-    <meta content={`@${social.twitter}`} name="twitter:site" />
-    <meta content={`@${social.twitter}`} name="twitter:creator" />
-    <meta content={pageTitleFull} name="twitter:text:title" />
-    <meta content={canonical} property="og:url" />
-    <meta content={canonical} name="twitter:url" />
-    <link rel="canonical" href={canonical} />
 
-    <meta content={imageUrl || `${siteUrl}/social.png`} property="og:image" />
     <meta content="1024" property="og:image:width" />
     <meta content="512" property="og:image:height" />
-    <meta content={imageUrl || `${siteUrl}/social.png`} name="twitter:image" />
-    <meta content="1024" name="twitter:image:width" />
-    <meta content="512" name="twitter:image:height" />
-    <meta content={imageUrl || `${siteUrl}/social.png`} property="og:image" />
     <meta content="1024" property="og:image:width" />
     <meta content="512" property="og:image:height" />
 

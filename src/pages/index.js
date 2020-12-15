@@ -14,17 +14,10 @@ const Index = ({ data }) => (
         {data.homeJson.content.childMarkdownRemark.rawMarkdownBody}
       </Title>
       <Modal>
-        <video
-          src="https://i.imgur.com/gzFqNSW.mp4"
-          playsInline
-          loop
-          autoPlay
-          muted
-        />
+        <p> Wkrótce podamy tutaj terminy oraz listę prelegentek.</p> 
       </Modal>
     </Box>
     <Gallery items={data.homeJson.gallery} />
-    <div style={{ height: '50vh' }} />
   </Layout>
 );
 

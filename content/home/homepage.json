@@ -1,19 +1,19 @@
 {
-  "title": "Home",
+  "title": "Intro",
   "content": "intro.md",
   "gallery": [{
     "title": "Piekło pozaludzkich kobiet",
-    "copy": "Żeby krowy dawały mleko muszą najpierw zajść w ciążę, a ich dziecko jest im odbierane. Czy to prawda, że każda matka czuje tak samo kiedy odbiera się jej potomstwo?",
+    "copy": "Czy jakakolwiek czująca istota może być obojętna na odebranie jej dziecka?",
     "image": "../images/gallery/cattle.jpg"
   },
   {
-    "title": "Ty świnio! Co za głupia baba!",
-    "copy": "Nasz język jest pełny fraz nacechowanych negatywnie wobec innych gatunków zwierząt, podobnie jak wobec kobiet. Czy świnie zasłużyły sobie na to miejsce, które otrzymały w potocznym języku? A może wręcz przeciwnie, powinniśmy nazywać innych świnią chcąc sprawić im komplement?",
+    "title": "Nie nazywaj nikogo świnią, chyba, że ma racice",
+    "copy": "Nasz język jest pełny fraz nacechowanych negatywnie wobec innych gatunków zwierząt. Czy świnie zasłużyły sobie na to miejsce, które otrzymały w potocznym języku? A może wręcz przeciwnie, powinniśmy nazywać innych świnią chcąc sprawić im komplement?",
     "image": "../images/gallery/animal2.jpg"
   },
   {
-    "title": "Czy jesteśmy świadkami początku końca patriarchatu i gatunkizmu?",
-    "copy": "Na naszych ulicach setki tysięcy kobiet domagają się legalnej aborcji dostępnej na życzenie, a w mediach rezygnacja z produktów odzwierzęcych rzadko już przedstawiana jest jako pogląd radykalny. Czy uda nam się zastąpić system oparty na niewolnictwie i wykorzystaniu innym, opartym na empatii i wzajemnej pomocy?",
+    "title": "Dlaczego każda feministka powinna być weganką?",
+    "copy": "Co łączy walka o równe traktowanie ludzi i zwierząt oraz co ma z tym wspólnego płeć?",
     "image": "../images/gallery/animal3.jpg"
   }]
 }

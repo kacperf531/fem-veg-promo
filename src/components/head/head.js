@@ -12,8 +12,6 @@ const Head = ({
   pageTitle,
   pageTitleFull = pageTitle ? `${siteTitle}: ${pageTitle}` : siteTitle,
   themeColor,
-  social,
-  imageUrl,
   location,
   canonical = siteUrl + (location.pathname || ''),
 }) => (

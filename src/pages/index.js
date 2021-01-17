@@ -13,7 +13,8 @@ const Index = ({ data }) => (
       <Title as="h2" size="large">
         {data.homeJson.content.childMarkdownRemark.rawMarkdownBody}
       </Title>
-      <Title size="small"><br/>Co mają ze sobą wspólnego prawa kobiet i prawa zwierząt? Wszystko. <br/>O podobieństwach między opresją kobiet i zwierząt. Dyskryminacja kobiet jest strukturalna, podobnie jak dyskryminacja zwierząt. Te drugie są jednak ofiarami meta wykluczenia: odmawia się im nawet statusu ofiary, przemoc wobec nich jest znormalizowana. Możemy oczekiwać od feministek, podobnie jak od innych osób walczących o sprawiedliwość społeczną, że znając i rozumiejąc mechanizmy wykluczenia, dostrzegą je wszędzie tam gdzie one są i odmowy  uczestniczenia w dyskryminacji innych, co jest naturalnym zachowaniem emancypacyjnym. </Title>
+      <Title style="small"><br/>Co mają ze sobą wspólnego prawa kobiet i prawa zwierząt? Wszystko. <br/>O podobieństwach między opresją kobiet i zwierząt. Dyskryminacja kobiet jest strukturalna, podobnie jak dyskryminacja zwierząt. Te drugie są jednak ofiarami meta wykluczenia: odmawia się im nawet statusu ofiary, przemoc wobec nich jest znormalizowana. Możemy oczekiwać od feministek, podobnie jak od innych osób walczących o sprawiedliwość społeczną, że znając i rozumiejąc mechanizmy wykluczenia, dostrzegą je wszędzie tam gdzie one są i odmowy  uczestniczenia w dyskryminacji innych, co jest naturalnym zachowaniem emancypacyjnym.</Title>
+      <br/> - J.Wiśniewska<br/> 
       <Modal>
         <Title as="h1" size="small">Sobota, 23.01.2021</Title>
         <p><br/>Krowy mleczne - najbardziej wykorzystywane matki. (A. Żuchniewicz), godzina 18:00<br/></p>

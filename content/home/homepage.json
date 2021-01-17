@@ -1,19 +1,25 @@
 {
   "title": "Intro",
   "content": "intro.md",
+  "modal": "modal.md",
   "gallery": [{
-    "title": "Piekło pozaludzkich kobiet",
-    "copy": "Czy jakakolwiek czująca istota może być obojętna na odebranie jej dziecka?",
-    "image": "../images/gallery/cattle.jpg"
-  },
-  {
-    "title": "Nie nazywaj nikogo świnią, chyba, że ma racice",
-    "copy": "Nasz język jest pełny fraz nacechowanych negatywnie wobec innych gatunków zwierząt. Czy świnie zasłużyły sobie na to miejsce, które otrzymały w potocznym języku? A może wręcz przeciwnie, powinniśmy nazywać innych świnią chcąc sprawić im komplement?",
+    "title": "Jaki jest problem z byciem suką? W poszukiwaniu językowych manipulacji.",
+    "copy": "Prelegentka: Joanna Wiśniewska. Forma: Prezentacja + pytania od publiczności.",
     "image": "../images/gallery/animal2.jpg"
   },
   {
-    "title": "Feminizm i weganizm to wspólna walka",
-    "copy": "Co łączy walka o równe traktowanie ludzi i zwierząt oraz co ma z tym wspólnego płeć?",
+    "title": "Females support females - dumne hasło utopione w szklance mleka.",
+    "copy": "Prelegentka: Monika Kohut. Forma: Spotkanie dyskusyjne ze słowem wstępu od prelegentki.",
+    "image": "../images/gallery/cattle.jpg"
+  },
+  {
+    "title": "O prawach reprodukcyjnych jednostki nad jajecznicą",
+    "copy": "Prelegentka: Anna Witańska. Forma: Spotkanie dyskusyjne ze słowem wstępu od prelegentki.",
     "image": "../images/gallery/animal3.jpg"
+  },
+  {
+    "title": "Krowy mleczne - najbardziej wykorzystywane matki.",
+    "copy": "Prelegentka: Anna Żuchniewicz",
+    "image": "../images/gallery/cow.jpg"
   }]
 }

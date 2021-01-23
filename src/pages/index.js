@@ -17,7 +17,7 @@ const Index = ({ data }) => (
       <br/> - J.Wiśniewska<br/> 
       <Modal>
         <Title as="h1" size="small">Sobota, 23.01.2021</Title>
-        <p><br/>Krowy mleczne - najbardziej wykorzystywane matki. (A. Żuchniewicz), godzina 18:00<br/></p>
+        <p><br/>Krowy mleczne - najbardziej wykorzystywane matki. (A. Żuchniewicz), godzina 18:00<br/> link do spotkania: <a href="https://meet.jit.si/KrowyMleczneNajbardziejWykorzystywaneMatki"> Jit.si (sesja interaktywna)</a></p>
         <p><br/>O prawach reprodukcyjnych jednostki nad jajecznicą. (A. Witańska), godzina 20:00<br/></p>
         <Title as="h1" size="small">Niedziela, 24.01.2021</Title>
         <p><br/>Jaki jest problem z byciem suką? W poszukiwaniu językowych manipulacji. (J. Wiśniewska), godzina 18:00<br/></p>

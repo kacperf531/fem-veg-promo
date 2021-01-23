@@ -3,3 +3,4 @@
 Organizatorem wydarzenia jest Wolna Biblioteka we Wrocławiu.  
 Odwiedź naszą stronę: [wolnabiblioteka.pl](https://wolnabiblioteka.pl).
 
+ 

@@ -20,8 +20,8 @@ const Index = ({ data }) => (
         <p><br/>Krowy mleczne - najbardziej wykorzystywane matki. (A. Żuchniewicz), godzina 18:00<br/> link do spotkania: <a href="https://meet.jit.si/KrowyMleczneNajbardziejWykorzystywaneMatki"> Jit.si (sesja interaktywna)</a></p>
         <p><br/>O prawach reprodukcyjnych jednostki nad jajecznicą. (A. Witańska), godzina 20:00 <a href="https://meet.jit.si/OPrawachJednostkiNadJajecznica"> Jit.si (sesja interaktywna) <a href="https://www.youtube.com/watch?v=-SQ75Nb91R4">youtube (live stream)</a></a><br/></p>
         <Title as="h1" size="small">Niedziela, 24.01.2021</Title>
-        <p><br/>Jaki jest problem z byciem suką? W poszukiwaniu językowych manipulacji. (J. Wiśniewska), godzina 18:00 <a href="https://8x8.vc/weganizmtofeminizm">jitsi(sesja interaktywna)</a><br/></p>
-        <p><br/>Females support females - dumne hasło utopione w szklance mleka. (M. Kohut), godzina 20:00<br/></p>
+        <p><br/>Jaki jest problem z byciem suką? W poszukiwaniu językowych manipulacji. (J. Wiśniewska), godzina 18:00 <a href="https://8x8.vc/weganizmtofeminizm">jitsi(sesja interaktywna)</a> <a href="https://www.youtube.com/watch?v=PeKS3-tGV7g">youtube(live stream)</a><br/></p>
+        <p><br/>Females support females - dumne hasło utopione w szklance mleka. (M. Kohut), godzina 20:00 <a href="https://8x8.vc/weganizmtofeminizm">jitsi(sesja interaktywna)</a><br/></p>
         <Title as="h1" size="small">Linki do spotkań podamy na 30 minut przed rozpoczęciem na stronie i na fb/twitterze.</Title>
       </Modal>
     </Box>
